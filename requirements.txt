@@ -94,5 +94,4 @@ streamlit==1.45.0
 streamlit-navigation-bar==3.3.0
 pycaret
 streamlit_option_menu
-
 yfinance==0.2.61
